@@ -1,6 +1,5 @@
 # Pong-game
-Code assembly - emu8086
-Mô tả cách chơi:
+Code assembly - emu8086 - Mô tả cách chơi:
 - Di chuyển thanh đỡ để đỡ bóng
 - Người chơi có 2 mạng
 - Tốc độ bóng thay đổi nếu như mất mạng
